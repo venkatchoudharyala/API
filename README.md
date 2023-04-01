@@ -11,4 +11,4 @@ After importing library we can take an input question.
 
 With the completion function we can complete the un resolved prompts into the meaning ful sentences.
 
-And then we can relay the prompt to the openAI and then from there we can get the answ
+And then we can relay the prompt to the openAI and then from there we can get the answer.
